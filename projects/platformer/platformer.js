@@ -55,7 +55,6 @@ createPlatform(1200, 400, 300, 10); //
 
     createCollectable("grace", 300, 200); // 
     createCollectable("max", 600, 100); // 
-    createCollectable("grace", 100, 300); // 
     createCollectable("max", 1000, 100); // 
     createCollectable("grace", 300, 200); // 
     createCollectable("max", 500, 300); // 
